@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecipeFinderApp</string>
+    <string name="ingredients">Ingredients: eg: tomato,sugar...</string>
+    <string name="search">Search term:eg:meatloaf...</string>
+</resources>
